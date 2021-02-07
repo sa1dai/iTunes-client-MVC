@@ -1,3 +1,3 @@
-### Simple iTunes client, written in MVC (iOS 12+, Swift, UIKit, StoryBoard, MVC)
+### Simple iTunes client, written in MVC (iOS 12+, Swift, UIKit, StoryBoard)
 
 <img src="https://media.giphy.com/media/9rWTRHpF99qSXBVZmW/giphy.gif" width="375" height="667" />
